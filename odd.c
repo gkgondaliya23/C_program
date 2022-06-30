@@ -1,4 +1,4 @@
-/* using nested for loop
+/* using nested for loop(odd number)
 	1	1	1	1	1
 	3	3	3	3	3
 	5	5	5	5	5
